@@ -9,12 +9,17 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
-
+/Assets/BulletPro*
+/Assets/ConsolePro*
+/Assets/MunizCodeKit*
+/Assets/ParadoxNotion*
+/Assets/ParadoxNotion Resources*
+/Assets/Plugins*
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
-# /[Aa]ssets/AssetStoreTools*
+/[Aa]ssets/AssetStoreTools*
 
 # TextMesh Pro files
 [Aa]ssets/TextMesh*Pro/
